@@ -6,5 +6,5 @@ for 정보처리산업기사 과정평가형 날림코딩
 7pm~10pm
 2시간을
 <%list.get(i).getName(); %>을
-<%=list.get(i).getname()%>으로 변경하는데씀
+<%=list.get(i).getname()%>으로 변경하는데씀(그래도 그 과정에서 코딩이 깔끔해졌음)
 result today-> (scriptlet) transform (jstl)
